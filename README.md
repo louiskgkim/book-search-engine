@@ -22,7 +22,7 @@ Some files will be needed in order for this generator to operate:
 1. Clone the repository
 2. Open terminal in the right file path
 3. Run npm i into terminal
-4. Run npm run start into terminal
+4. Run npm run develop into terminal
 5. The application should now run on http://localhost:3000/
 6. Or access via Heroku: 
 
