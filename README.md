@@ -28,7 +28,7 @@ Some files will be needed in order for this generator to operate:
 
 
 ## Screenshots
-
+<img width="1367" alt="Main Page" src="https://user-images.githubusercontent.com/115679155/232168118-990b2de7-8b1f-4f7a-b79f-2ef9a0729e02.png">
 
 
 ### Repository:
